@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    align-items: center;
+    margin-top: 20vw;
+    background-color: grey;
+}
+
+.cuadrado{
+    display: inline-block;
+    border: 1px solid white;
+    background-color: blue;
+    padding: 30px;
+    position: relative;
+}
